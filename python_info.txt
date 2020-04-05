@@ -1,0 +1,2 @@
+Info about installation.
+https://medium.com/faun/the-right-way-to-set-up-python-on-your-mac-e923ffe8cf8e

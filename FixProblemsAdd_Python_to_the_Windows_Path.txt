@@ -1,0 +1,12 @@
+After installing numpy , scipy ,sklearn still has error
+
+Solution:
+
+Setting Up System Path Variable for Python & the PYTHONPATH Environment Variable
+
+System Variables: add C:\Python34 into path User Variables: add new: (name)PYTHONPATH (value)C:\Python34\Lib\site-packages;
+
+https://geek-university.com/python/add-python-to-the-windows-path/
+
+https://projects.raspberrypi.org/en/projects/using-pip-on-windows/5
+
